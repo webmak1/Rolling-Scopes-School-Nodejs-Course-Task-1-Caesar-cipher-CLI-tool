@@ -202,3 +202,14 @@ $ node my_caesar_cli --action decode --shift 7 --input decoded.txt --output plai
 
 > output.txt
 > `Aopz pz zljyla. Tlzzhnl hivba "_" zftivs!`
+
+<br/>
+
+---
+
+<br/>
+
+**Marley**
+
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
